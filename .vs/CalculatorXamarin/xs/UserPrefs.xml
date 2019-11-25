@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{23CDB15B-771A-4D3F-A07E-5AB26E16C529}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorXamarin/SharedResources.cs">
+    <Files>
+      <File FileName="CalculatorXamarin/MainPage.xaml.cs" Line="8" Column="3" />
+      <File FileName="CalculatorXamarin/MainPage.xaml" />
+      <File FileName="CalculatorXamarin/SimpleCalculator.cs" />
+      <File FileName="CalculatorXamarin/SharedResources.cs" Line="13" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorXamarin" expanded="True">
+            <Node name="CalculatorXamarin" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SharedResources.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalculatorXamarin.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
